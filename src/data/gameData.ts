@@ -21,21 +21,21 @@ export const truthQuestions: GameQuestion[] = [
   
   // Medium truths
   { id: 8, type: 'truth', difficulty: 'medium', text: 'What is your biggest insecurity?' },
-  { id: 9, type: 'truth', difficulty: 'medium', text: 'What is the biggest mistake you've ever made?' },
-  { id: 10, type: 'truth', difficulty: 'medium', text: 'What is something you're afraid to tell your parents?' },
-  { id: 11, type: 'truth', difficulty: 'medium', text: 'What is the weirdest thought you've ever had?' },
+  { id: 9, type: 'truth', difficulty: 'medium', text: 'What is the biggest mistake you have ever made?' },
+  { id: 10, type: 'truth', difficulty: 'medium', text: 'What is something you are afraid to tell your parents?' },
+  { id: 11, type: 'truth', difficulty: 'medium', text: 'What is the weirdest thought you have ever had?' },
   { id: 12, type: 'truth', difficulty: 'medium', text: 'What is your biggest regret?' },
-  { id: 13, type: 'truth', difficulty: 'medium', text: 'What is the most embarrassing thing you've done while drunk?' },
-  { id: 14, type: 'truth', difficulty: 'medium', text: 'What is a secret you've never told anyone?' },
+  { id: 13, type: 'truth', difficulty: 'medium', text: 'What is the most embarrassing thing you have done while drunk?' },
+  { id: 14, type: 'truth', difficulty: 'medium', text: 'What is a secret you have never told anyone?' },
   
   // Spicy truths
   { id: 15, type: 'truth', difficulty: 'spicy', text: 'What is your most controversial opinion?' },
-  { id: 16, type: 'truth', difficulty: 'spicy', text: 'What is the biggest lie you've ever told?' },
-  { id: 17, type: 'truth', difficulty: 'spicy', text: 'What is something you'd never want your family to know about you?' },
-  { id: 18, type: 'truth', difficulty: 'spicy', text: 'What is the most embarrassing thing that's happened to you in a romantic situation?' },
+  { id: 16, type: 'truth', difficulty: 'spicy', text: 'What is the biggest lie you have ever told?' },
+  { id: 17, type: 'truth', difficulty: 'spicy', text: 'What is something you would never want your family to know about you?' },
+  { id: 18, type: 'truth', difficulty: 'spicy', text: 'What is the most embarrassing thing that has happened to you in a romantic situation?' },
   { id: 19, type: 'truth', difficulty: 'spicy', text: 'What is your biggest fantasy?' },
-  { id: 20, type: 'truth', difficulty: 'spicy', text: 'What is a secret you've been keeping from your best friend?' },
-  { id: 21, type: 'truth', difficulty: 'spicy', text: 'What is the meanest thing you've ever done to someone?' }
+  { id: 20, type: 'truth', difficulty: 'spicy', text: 'What is a secret you have been keeping from your best friend?' },
+  { id: 21, type: 'truth', difficulty: 'spicy', text: 'What is the meanest thing you have ever done to someone?' }
 ];
 
 export const dareQuestions: GameQuestion[] = [
